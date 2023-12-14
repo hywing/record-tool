@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/connected.png</file>
+        <file>res/disconnected.png</file>
+    </qresource>
+</RCC>

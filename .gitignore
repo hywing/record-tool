@@ -1,0 +1,4 @@
+/qt-builds
+/*.user
+/release
+build
